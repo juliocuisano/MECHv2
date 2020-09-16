@@ -1,2 +1,0 @@
-# MECHv2
-MECH
